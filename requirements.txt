@@ -1,0 +1,6 @@
+openai==0.28
+tiktoken
+langchain==0.0.249
+flask
+GitPython
+python-dotenv
